@@ -11,3 +11,8 @@
 
 ## 3.Vocabulário
 ### [3.1. Adjectivos de personalidad](https://www.bomespanhol.com.br/vocabulario/adjetivos-de-personalidade)
+
+## 4. Exercicios
+### 4.1. Conjugacion de verbo
+* [Conjugacion verbos **Regulares - Presente Indicativo**](https://youtu.be/yQhIJyIksSA)
+
