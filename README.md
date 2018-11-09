@@ -40,7 +40,37 @@
 
 
 ## 3.Vocabulário
-### [3.1. Adjectivos de personalidad](https://www.bomespanhol.com.br/vocabulario/adjetivos-de-personalidade)
+
+* [Adjetivos de Personalidade](https://www.bomespanhol.com.br/vocabulario/adjetivos-de-personalidade)
+* [Escola](https://www.bomespanhol.com.br/vocabulario/a-escola)
+* [Partes da casa](https://www.bomespanhol.com.br/vocabulario/a-casa)
+* [Alimentos](https://www.bomespanhol.com.br/vocabulario/os-alimentos)
+* [Família](https://www.bomespanhol.com.br/vocabulario/a-familia)
+* [Partes do Corpo](https://www.bomespanhol.com.br/vocabulario/partes-do-corpo)
+* [Animais](https://www.bomespanhol.com.br/vocabulario/os-animais)
+* [Jogos e Esportes](https://www.bomespanhol.com.br/vocabulario/jogos-e-esportes)
+* [Profissões](https://www.bomespanhol.com.br/vocabulario/as-profissoes)
+* [Atividades de Lazer](https://www.bomespanhol.com.br/vocabulario/atividades-lazer)
+* [Meses e Estações do Ano](https://www.bomespanhol.com.br/vocabulario/meses-e-estacoes-do-ano)
+* [Tempo e Natureza](https://www.bomespanhol.com.br/vocabulario/natureza)
+* [Comércios e Serviços](https://www.bomespanhol.com.br/vocabulario/comercios-servicos)
+* [Moedas](https://www.bomespanhol.com.br/vocabulario/moedas)
+* [Transporte](https://www.bomespanhol.com.br/vocabulario/computadores-internet)
+* [Computadores e Internet](https://www.bomespanhol.com.br/vocabulario/mundo-negocios)
+* [Mundo dos Negócios](https://www.bomespanhol.com.br/vocabulario/mundo-negocios)
+* [Vestuário](https://www.bomespanhol.com.br/vocabulario/o-vestuario)
+* [Cores](https://www.bomespanhol.com.br/vocabulario/as-cores)
+* [Números](https://www.bomespanhol.com.br/vocabulario/os-numeros)
+* [Viagem](https://www.bomespanhol.com.br/vocabulario/a-viagem)
+* [Dias da Semana](https://www.bomespanhol.com.br/vocabulario/dias-da-semana)
+* [Os Medicamentos](https://www.bomespanhol.com.br/vocabulario/os-medicamentos)
+* [As Festas](https://www.bomespanhol.com.br/vocabulario/festas)
+* [As Flores](https://www.bomespanhol.com.br/vocabulario/as-flores-e-seus-significados)
+* [O Trabalho](https://www.bomespanhol.com.br/vocabulario/trabalho)
+* [O Cinema](https://www.bomespanhol.com.br/vocabulario/cinema)
+* [Adjetivos das Vozes](https://www.bomespanhol.com.br/vocabulario/adjetivos-descrever-vozes)
+* [O Tabaquismo](https://www.bomespanhol.com.br/vocabulario/tabaquismo)
+
 
 ## 4. Exercicios
 ### 4.1. Conjugacion de verbo
