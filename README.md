@@ -1,24 +1,6 @@
 # plan-estudio-espanol
 
-## 1. Frases
-
-* [En el aeropuerto](https://www.bomespanhol.com.br/frases-uteis/no-aeroporto)
-* [En las compras](https://www.bomespanhol.com.br/frases-uteis/no-mercado)
-* [Hablar al teléfono](https://www.bomespanhol.com.br/frases-uteis/falar-ao-telefone-espanhol)
-* [En la Farmacia](https://www.bomespanhol.com.br/frases-uteis/na-farmacia)
-* [En el banco](https://www.bomespanhol.com.br/frases-uteis/no-banco)
-* [En el cine y el teatro](https://www.bomespanhol.com.br/frases-uteis/no-cinema-teatro)
-* [En el hospital](https://www.bomespanhol.com.br/frases-uteis/no-hospital)
-* [En el hotel](https://www.bomespanhol.com.br/frases-uteis/no-hotel)
-* [En el restaurante](https://www.bomespanhol.com.br/frases-uteis/no-restaurante)
-* [En el Taxi](https://www.bomespanhol.com.br/frases-uteis/no-taxi)
-* [En los Negocios](https://www.bomespanhol.com.br/frases-uteis/nos-negocios)
-* [Diccionarios populares](https://www.bomespanhol.com.br/frases-uteis/ditados-populares)
-* [Expresiones Comunes](https://www.bomespanhol.com.br/frases-uteis/expressoes-comuns)
-* [Malas palabras](https://www.bomespanhol.com.br/frases-uteis/palavroes-para-maiores)
-
-
-## 2. Gramatica
+## 1. Gramática
 
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
@@ -37,6 +19,24 @@
 * [Apócopes](https://www.bomespanhol.com.br/gramatica/apocopes)
 * [Tipos de Frases](https://www.bomespanhol.com.br/gramatica/tipos-de-frases)
 * [Formación de Palabras](https://www.bomespanhol.com.br/gramatica/formacao-palavras)
+
+
+## 2. Frases
+
+* [En el aeropuerto](https://www.bomespanhol.com.br/frases-uteis/no-aeroporto)
+* [En las compras](https://www.bomespanhol.com.br/frases-uteis/no-mercado)
+* [Hablar al teléfono](https://www.bomespanhol.com.br/frases-uteis/falar-ao-telefone-espanhol)
+* [En la Farmacia](https://www.bomespanhol.com.br/frases-uteis/na-farmacia)
+* [En el banco](https://www.bomespanhol.com.br/frases-uteis/no-banco)
+* [En el cine y el teatro](https://www.bomespanhol.com.br/frases-uteis/no-cinema-teatro)
+* [En el hospital](https://www.bomespanhol.com.br/frases-uteis/no-hospital)
+* [En el hotel](https://www.bomespanhol.com.br/frases-uteis/no-hotel)
+* [En el restaurante](https://www.bomespanhol.com.br/frases-uteis/no-restaurante)
+* [En el Taxi](https://www.bomespanhol.com.br/frases-uteis/no-taxi)
+* [En los Negocios](https://www.bomespanhol.com.br/frases-uteis/nos-negocios)
+* [Diccionarios populares](https://www.bomespanhol.com.br/frases-uteis/ditados-populares)
+* [Expresiones Comunes](https://www.bomespanhol.com.br/frases-uteis/expressoes-comuns)
+* [Malas palabras](https://www.bomespanhol.com.br/frases-uteis/palavroes-para-maiores)
 
 
 ## 3.Vocabulário
