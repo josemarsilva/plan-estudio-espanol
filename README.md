@@ -2,7 +2,7 @@
 
 ## 1. Gramática
 
-* [Alfabeto](alfabeto.md)
+* [Alfabeto](assets/md/alfabeto.md)
 * Genero
 * Número
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
