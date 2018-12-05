@@ -3,7 +3,7 @@
 ## 1. Gramática
 
 * [Alfabeto](assets/md/alfabeto.md)
-* Genero
+* [Genero](assets/md/genero.md)
 * Número
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
