@@ -3,8 +3,8 @@
 ## 1. Gramática
 
 * [Alfabeto](assets/md/alfabeto.md)
-    * [Las letras](assets/md/alfabeto.md#1-las-letras)
-    * [Las dígrafos](assets/md/alfabeto.md#2-los-digrafos)
+  * [Las letras](assets/md/alfabeto.md#1-las-letras)
+  * [Las dígrafos](assets/md/alfabeto.md#2-los-digrafos)
 * [Genero](assets/md/genero.md)
     * [Genero de los sustantivos](assets/md/genero.md#1-genero-de-los-sustantivos)
     * [Genero de los adjetivos](assets/md/genero.md#2-genero-de-los-adjetivos)
