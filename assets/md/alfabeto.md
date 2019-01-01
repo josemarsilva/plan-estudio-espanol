@@ -1,6 +1,8 @@
 # Alfabeto
 
-### 1. Las letras del alfabeto son las veintinueve que siguen:
+### 1. Las letras
+
+Las letras del alfabeto son las veintinueve que siguen:
 
 letra  | Nombre            | Letra  | Nombre               | Letra | Nombre                     
 ------ | ----------------- | ------ | -------------------- | ----- | ------------------------------
@@ -15,8 +17,10 @@ letra  | Nombre            | Letra  | Nombre               | Letra | Nombre
 **H**  | la hache          | **P**  | la pe                | **Z** | la zeta                    
 **I**  | la i(latina)      | **Q**  | la cu                |       |                            
 
+### 2. Los dígrafos:
 
-PS: Son tres los dígrafos:
+Son tres los dígrafos:
+
 * **CH** la hache / che
 * **LL** la double ele / elle
 * **RR** la erre 

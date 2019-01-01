@@ -3,10 +3,16 @@
 ## 1. Gramática
 
 * [Alfabeto](assets/md/alfabeto.md)
+    * [Las letras](assets/md/alfabeto.md#1-las-letras)
+    * [Las dígrafos](assets/md/alfabeto.md#2-los-digrafos)
 * [Genero](assets/md/genero.md)
     * [Genero de los sustantivos](assets/md/genero.md#1-genero-de-los-sustantivos)
     * [Genero de los adjetivos](assets/md/genero.md#2-genero-de-los-adjetivos)
 * [Número](assets/md/numero.md)
+    * [Pronombres personales - persona, singular y plurar](assets/md/pronombres-personales-sujeto-ser-estar.md.md#1-pronombres-personales_-persona_-singular-y-plural)
+    * [Tratamiento](assets/md/pronombres-personales-sujeto-ser-estar.md.md#2-tratamiento)
+    * [Verbo "ser" y "estar"](assets/md/pronombres-personales-sujeto-ser-estar.md.md#3-verbo-ser-y-estar)
+* [Pronombres personales - sujeto + "ser" y "estar"](assets/md/pronombres-personales-sujeto-ser-estar.md)
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
 * [Adjetivos](https://www.bomespanhol.com.br/gramatica/adjetivos)
@@ -81,3 +87,7 @@
 ### 4.1. Conjugacion de verbo
 * [Conjugacion verbos **Regulares - Presente Indicativo**](https://youtu.be/yQhIJyIksSA)
 
+
+## I - Mapa Mental
+
+!
