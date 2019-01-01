@@ -15,9 +15,12 @@
     * [Tratamiento](assets/md/pronombres-personales-sujeto-ser-estar.md#2-tratamiento.md)
     * [Verbo "ser" y "estar"](assets/md/pronombres-personales-sujeto-ser-estar.md#3-verbos-ser-y-estar.md)
 * [Artículos Definidos](assets/md/articulos-definidos.md)
-    * [Artículos definidos con sustantivos](assets/md/articulos-definidos.md)
-    * [Artículos definidos con nombres comunes](assets/md/articulos-definidos.md)
-    * [Artículos definidos con nombres proprios](assets/md/articulos-definidos.md)
+    * [Artículos definidos con sustantivos](assets/md/articulos-definidos.md#1-artículos-definidos-con-sustantivos.md)
+    * [Artículos definidos con nombres comunes](assets/md/articulos-definidos.md#2-artículos-definidos-con-nombres-comunes.md)
+    * [Artículos definidos con nombres proprios](assets/md/articulos-definidos.md#3-artículos-definidos-con-nombres-proprios.md)
+
+
+
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
 * [Adjetivos](https://www.bomespanhol.com.br/gramatica/adjetivos)
