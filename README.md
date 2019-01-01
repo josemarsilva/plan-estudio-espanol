@@ -6,7 +6,7 @@
 * [Genero](assets/md/genero.md)
     * [Genero de los sustantivos](assets/md/genero.md#1-genero-de-los-sustantivos)
     * [Genero de los adjetivos](assets/md/genero.md#2-genero-de-los-adjetivos)
-* Número
+* [Número](assets/md/numero.md)
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
 * [Adjetivos](https://www.bomespanhol.com.br/gramatica/adjetivos)
