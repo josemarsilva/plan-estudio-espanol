@@ -9,10 +9,15 @@
     * [Genero de los sustantivos](assets/md/genero.md#1-genero-de-los-sustantivos)
     * [Genero de los adjetivos](assets/md/genero.md#2-genero-de-los-adjetivos)
 * [Número](assets/md/numero.md)
-    * [Pronombres personales - persona, singular y plurar](assets/md/pronombres-personales-sujeto-ser-estar.md.md#1-pronombres-personales_-persona_-singular-y-plural)
-    * [Tratamiento](assets/md/pronombres-personales-sujeto-ser-estar.md.md#2-tratamiento)
-    * [Verbo "ser" y "estar"](assets/md/pronombres-personales-sujeto-ser-estar.md.md#3-verbo-ser-y-estar)
+    * [Singular / plural de los sustantivos y adjetivos](assets/md/numero.md#1-singular--plural-de-los-sustantivos-y-adjetivos.md)
 * [Pronombres personales - sujeto + "ser" y "estar"](assets/md/pronombres-personales-sujeto-ser-estar.md)
+    * [Pronombres personales - persona, singular y plurar](assets/md/pronombres-personales-sujeto-ser-estar.md#1-pronombres-personales-persona-singular-y-plural.md)
+    * [Tratamiento](assets/md/pronombres-personales-sujeto-ser-estar.md#2-tratamiento.md)
+    * [Verbo "ser" y "estar"](assets/md/pronombres-personales-sujeto-ser-estar.md#3-verbos-ser-y-estar.md)
+* [Artículos Definidos](assets/md/articulos-definidos.md)
+    * [Artículos definidos con sustantivos](assets/md/articulos-definidos.md)
+    * [Artículos definidos con nombres comunes](assets/md/articulos-definidos.md)
+    * [Artículos definidos con nombres proprios](assets/md/articulos-definidos.md)
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
 * [Adjetivos](https://www.bomespanhol.com.br/gramatica/adjetivos)
@@ -90,4 +95,4 @@
 
 ## I - Mapa Mental
 
-!
+![](assets/images/Plan%20de%20estudio%20en%20espanol.png) 
