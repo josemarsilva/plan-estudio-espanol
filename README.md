@@ -1,26 +1,28 @@
 # plan-estudio-espanol
 
+## I. Mapa Mental
+
+![](assets/images/Plan%20de%20estudio%20en%20espanol.png) 
+
+
 ## 1. Gramática
 
 * [Alfabeto](assets/md/alfabeto.md)
   * [Las letras](assets/md/alfabeto.md#1-las-letras)
   * [Las dígrafos](assets/md/alfabeto.md#2-los-digrafos)
 * [Genero](assets/md/genero.md)
-    * [Genero de los sustantivos](assets/md/genero.md#1-genero-de-los-sustantivos)
-    * [Genero de los adjetivos](assets/md/genero.md#2-genero-de-los-adjetivos)
+  * [Genero de los sustantivos](assets/md/genero.md#1-genero-de-los-sustantivos)
+  * [Genero de los adjetivos](assets/md/genero.md#2-genero-de-los-adjetivos)
 * [Número](assets/md/numero.md)
-    * [Singular / plural de los sustantivos y adjetivos](assets/md/numero.md#1-singular--plural-de-los-sustantivos-y-adjetivos.md)
+  * [Singular / plural de los sustantivos y adjetivos](assets/md/numero.md#1-singular--plural-de-los-sustantivos-y-adjetivos.md)
 * [Pronombres personales - sujeto + "ser" y "estar"](assets/md/pronombres-personales-sujeto-ser-estar.md)
-    * [Pronombres personales - persona, singular y plurar](assets/md/pronombres-personales-sujeto-ser-estar.md#1-pronombres-personales-persona-singular-y-plural.md)
-    * [Tratamiento](assets/md/pronombres-personales-sujeto-ser-estar.md#2-tratamiento.md)
-    * [Verbo "ser" y "estar"](assets/md/pronombres-personales-sujeto-ser-estar.md#3-verbos-ser-y-estar.md)
+  * [Pronombres personales - persona, singular y plurar](assets/md/pronombres-personales-sujeto-ser-estar.md#1-pronombres-personales-persona-singular-y-plural.md)
+  * [Tratamiento](assets/md/pronombres-personales-sujeto-ser-estar.md#2-tratamiento.md)
+  * [Verbo "ser" y "estar"](assets/md/pronombres-personales-sujeto-ser-estar.md#3-verbos-ser-y-estar.md)
 * [Artículos Definidos](assets/md/articulos-definidos.md)
-    * [Artículos definidos con sustantivos](assets/md/articulos-definidos.md#1-artículos-definidos-con-sustantivos.md)
-    * [Artículos definidos con nombres comunes](assets/md/articulos-definidos.md#2-artículos-definidos-con-nombres-comunes.md)
-    * [Artículos definidos con nombres proprios](assets/md/articulos-definidos.md#3-artículos-definidos-con-nombres-proprios.md)
-
-
-
+  * [Artículos definidos con sustantivos](assets/md/articulos-definidos.md#1-artículos-definidos-con-sustantivos.md)
+  * [Artículos definidos con nombres comunes](assets/md/articulos-definidos.md#2-artículos-definidos-con-nombres-comunes.md)
+  * [Artículos definidos con nombres proprios](assets/md/articulos-definidos.md#3-artículos-definidos-con-nombres-proprios.md)
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
 * [Adjetivos](https://www.bomespanhol.com.br/gramatica/adjetivos)
@@ -96,6 +98,3 @@
 * [Conjugacion verbos **Regulares - Presente Indicativo**](https://youtu.be/yQhIJyIksSA)
 
 
-## I - Mapa Mental
-
-![](assets/images/Plan%20de%20estudio%20en%20espanol.png) 
