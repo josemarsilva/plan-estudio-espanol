@@ -36,3 +36,12 @@ Masculino en **o** y Feminino en **a** (inclusive los adjetivos compuestos)     
 Masculino en **o** y Feminino en **a**     | coche brasileñ**o**                        | frut**a** brasileñ**a**
 Masculino y Feminino en **a**, **e**, **í**, **ú** | estadio carioc**a**, escritor nicaraguens**e**, ejército iran**í**, restaurante hind**ú**
 Masculino en **consonante** y feminino en **consonante** + **a** | abuelo 
+Masculino en **án**,**ín**, **ón** y feminino en **ana**, **ina**, **ona** | Ese señor és harag**án**, Mi hijo es saltar**ín**, El perrito es dormil**ón** | Esa chica es harag**ana**, Camila es saltar**ina**, La gata es dormil**ona**
+Masculino en **ete**, **ote** y Feminino en **eta**, **ota** | un niño regord**ete**, un polícia grand**ote** | una beba regord**eta**, una enfermera grand**ota**
+Los terminados en **a**                    | Tu tío es egoíst**a**  | Esa anciana es egoíst**a**
+Los terminados en **al**                   | un día especi**al** | una mañana especi**al**
+Los terminados en **ante**, **ente**       | anillo brill**ante**, Mi amigo es val**iente** | Pulsera brill**ante**, Su esposa es val**iente**
+Los terminados en **az**, **iz**, **oz**   | un coche vel**oz**, un tipo fel**iz** y cap**az** | Una liebre vel**oz**, Ella es fel**iz** y cap**az**
+Los terminados en **ble**                  | El director es ama**ble** | La vendedora es ama**ble**
+Los terminados en **or**                   | El chico may**or**, el mej**or** programa | la may**or** oportunidad, la mej**or** profesora
+ 
