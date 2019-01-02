@@ -23,6 +23,9 @@
   * [Artículos definidos con sustantivos](assets/md/articulos-definidos.md#1-artículos-definidos-con-sustantivos.md)
   * [Artículos definidos con nombres comunes](assets/md/articulos-definidos.md#2-artículos-definidos-con-nombres-comunes.md)
   * [Artículos definidos con nombres proprios](assets/md/articulos-definidos.md#3-artículos-definidos-con-nombres-proprios.md)
+  * [Artículos definidos con expresiones de tiempo; contracciones](assets/md/articulos-definidos.md#4-artículos-definidos-con-expresiones-de-tiempo-contracciones.md)
+  * [Artículos definidos las preposiciones a y de se unen con el artículo el](assets/md/articulos-definidos.md#5-artículos-definidos-las-preposiciones-a-y-de-se-unen-con-el-artículo-el.md)
+
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
 * [Adjetivos](https://www.bomespanhol.com.br/gramatica/adjetivos)
