@@ -1,4 +1,4 @@
-# plan-estudio-espanol
+# treina-estudio-espanol
 
 ## I. Mapa Mental
 
