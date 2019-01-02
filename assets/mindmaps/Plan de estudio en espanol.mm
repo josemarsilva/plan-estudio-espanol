@@ -88,6 +88,39 @@
 <icon BUILTIN="list"/>
 <node CREATED="1546381264311" ID="ID_1253596446" MODIFIED="1546385822174" TEXT="con sustantivos"/>
 <node CREATED="1546381266909" ID="ID_1025238442" MODIFIED="1546385829797" TEXT="con nombres comunes"/>
+<node CREATED="1546387405339" ID="ID_1551345982" MODIFIED="1546387414638" TEXT="con nombres proprios"/>
+<node CREATED="1546386234767" ID="ID_1708681610" MODIFIED="1546386257582">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      con expresiones de tiempo
+    </p>
+    <p>
+      contracciones
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1546387425629" ID="ID_550236988" MODIFIED="1546387436014">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      las preposiciones a y
+    </p>
+    <p>
+      de se unen con el art&#237;culo el
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1546381032324" ID="ID_1111239955" MODIFIED="1546381435085" POSITION="right" STYLE="bubble" TEXT="2. Frases">
