@@ -2,7 +2,7 @@
 
 ## 1. Artículos definidos con sustantivos
 
-.        | masculino | feminino 
+         | masculino | feminino 
 -------- | --------- | --------
          |           |  
 singular | **el**    | **ella**
@@ -20,7 +20,7 @@ La forma **el** sustituye **la** solamente delante de sustantivos singulares que
 
 ## 3. Artículos definidos con nombres proprios
 
-.   |                                                                                                               |  
+?   | Delante de ...                                                                                                |  Ejemplos
 --- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------
 SÍ  | delante de nombres de mares, océanos, ríos, cadenas de montañas, grupos de islas y punts cardinales           | con apodos, **El** Gordo / **La** Negra / **El** Alemán
 NO  | salvo en casos especiales, delante de nombres de países, continentes, regiones, ciudades, estados, provincias | delante de nombres de persona
