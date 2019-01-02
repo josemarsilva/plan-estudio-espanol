@@ -4,7 +4,6 @@
 
 numero   | masculino | feminino 
 -------- | --------- | --------
-         |           |  
 singular | **el**    | **ella**
 plura    | **los**   | **las**
 
