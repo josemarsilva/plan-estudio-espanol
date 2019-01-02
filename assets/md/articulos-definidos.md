@@ -2,7 +2,7 @@
 
 ## 1. Artículos definidos con sustantivos
 
-         | masculino | feminino 
+numero   | masculino | feminino 
 -------- | --------- | --------
          |           |  
 singular | **el**    | **ella**
