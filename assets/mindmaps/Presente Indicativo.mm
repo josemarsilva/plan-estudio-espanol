@@ -439,36 +439,46 @@
 <icon BUILTIN="folder"/>
 <node CREATED="1546542892116" ID="ID_302646483" MODIFIED="1546542909902" TEXT="&quot;ie&quot;">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1546542966487" ID="ID_1655602219" MODIFIED="1546543372727">
+<node CREATED="1546542966487" ID="ID_1655602219" MODIFIED="1546547053743">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>ar</b>: apretar, atravesar, calentar, confesar, despertar, gobernar, pensar, regar, tropezar
+      <b>ar</b>: apretar, atravesar, calentar, confesar, despertar,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;gobernar, pensar, regar, tropezar
     </p>
     <p>
       <b>er</b>: atender, defender, encender, entender, perder, tender
     </p>
     <p>
-      <b>ir</b>: advertir, convertir, digerir, divertir, herir, invertir, mentir, sentir, sugerir
+      <b>ir</b>: advertir, convertir, digerir, divertir, herir, invertir, mentir,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;sentir, sugerir
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 <node CREATED="1546542901293" ID="ID_333646108" MODIFIED="1546542909902" TEXT="&quot;ue&quot;">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1546543126823" ID="ID_1152356374" MODIFIED="1546543372277">
+<node CREATED="1546543126823" ID="ID_1152356374" MODIFIED="1546547066828">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>ar</b>: apostar, colgar, contar, encontrar, mostrar, probar, rodar, rogar, soltar, so&#241;ar, volar
+      <b>ar</b>: apostar, colgar, contar, encontrar, mostrar, probar, rodar,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;rogar, soltar, so&#241;ar, volar
     </p>
     <p>
       <b>er</b>: devolver, envolver, mover, poder, resolver, soler, torcer
@@ -477,7 +487,8 @@
       <b>ir</b>: morir
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -528,20 +539,24 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546543596994" ID="ID_74135611" MODIFIED="1546544640962">
+<node CREATED="1546543596994" ID="ID_74135611" MODIFIED="1546546951339">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Poner</b>: pon<b><font color="#ff0000">g</font></b>o, pones, pone, ponemos, pon&#233;is, ponen
+      <b>Poner</b>: pon<b><font color="#ff0000">g</font></b>o, pones, pone,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ponemos, pon&#233;is, ponen
     </p>
     <p>
       <b>Valer</b>, <b>Salir</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_1462735469" MODIFIED="1546543513290">
@@ -555,20 +570,24 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546543596994" ID="ID_1086963250" MODIFIED="1546544657461">
+<node CREATED="1546543596994" ID="ID_1086963250" MODIFIED="1546546959883">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Caer</b>: cai<b><font color="#ff0000">g</font></b>o, caies, caie, caemos, ca&#233;is, caen
+      <b>Caer</b>: cai<b><font color="#ff0000">g</font></b>o, caies, caie,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;caemos, ca&#233;is, caen
     </p>
     <p>
       <b>Traer</b>, <b>Roer</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1546543524570" ID="ID_326581182" MODIFIED="1546543566833">
@@ -585,20 +604,24 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546543596994" ID="ID_1827438512" MODIFIED="1546544775048">
+<node CREATED="1546543596994" ID="ID_1827438512" MODIFIED="1546547008406">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Hacer</b>: ha<b><font color="#ff0000">g</font></b>o, haces, hace, hacemos, hac&#233;is, hacen
+      <b>Hacer</b>: ha<b><font color="#ff0000">g</font></b>o, haces, hace,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;hacemos, hac&#233;is, hacen
     </p>
     <p>
       <b>Satisfacer</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -640,17 +663,21 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546543596994" ID="ID_1131009904" MODIFIED="1546545042552">
+<node CREATED="1546543596994" ID="ID_1131009904" MODIFIED="1546547014784">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Tener</b>: ten<b><font color="#ff0000">g</font></b>o, t<b><font color="#ff0000">ie</font></b>nes, t<b><font color="#ff0000">ie</font></b>ne, tenemos, ten&#233;is, t<b><font color="#ff0000">ie</font></b>nen
+      <b>Tener</b>: ten<b><font color="#ff0000">g</font></b>o, t<b><font color="#ff0000">ie</font></b>nes, t<b><font color="#ff0000">ie</font></b>ne,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tenemos, ten&#233;is, t<b><font color="#ff0000">ie</font></b>nen
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_404670303" MODIFIED="1546545169823">
@@ -667,17 +694,21 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546543596994" ID="ID_556966770" MODIFIED="1546545512503">
+<node CREATED="1546543596994" ID="ID_556966770" MODIFIED="1546547020559">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Venir</b>: ven<b><font color="#ff0000">g</font></b>o, v<b><font color="#ff0000">ie</font></b>nes, v<b><font color="#ff0000">ie</font></b>ne, venimos, ven&#237;s, v<b><font color="#ff0000">ie</font></b>nen
+      <b>Venir</b>: ven<b><font color="#ff0000">g</font></b>o, v<b><font color="#ff0000">ie</font></b>nes, v<b><font color="#ff0000">ie</font></b>ne,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;venimos, ven&#237;s, v<b><font color="#ff0000">ie</font></b>nen
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_462042528" MODIFIED="1546545571790">
@@ -694,17 +725,21 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546543596994" ID="ID_904906988" MODIFIED="1546545638586">
+<node CREATED="1546543596994" ID="ID_904906988" MODIFIED="1546547026033">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Decir</b>: d<b><font color="#ff0000">ig</font></b>o, d<b><font color="#ff0000">i</font></b>ces, d<b><font color="#ff0000">i</font></b>ce, decimos, dec&#237;s, d<b><font color="#ff0000">i</font></b>cen
+      <b>Decir</b>: d<b><font color="#ff0000">ig</font></b>o, d<b><font color="#ff0000">i</font></b>ces, d<b><font color="#ff0000">i</font></b>ce,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;decimos, dec&#237;s, d<b><font color="#ff0000">i</font></b>cen
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_1622083960" MODIFIED="1546546075745">
@@ -718,17 +753,21 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546543596994" ID="ID_1948695563" MODIFIED="1546546137392">
+<node CREATED="1546543596994" ID="ID_1948695563" MODIFIED="1546547033099">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>O&#237;r</b>: o<b><font color="#ff0000">ig</font></b>o, o<b><font color="#ff0000">y</font></b>es, o<b><font color="#ff0000">y</font></b>e, o&#237;mos, o&#237;s, o<b><font color="#ff0000">y</font></b>en
+      <b>O&#237;r</b>: o<b><font color="#ff0000">ig</font></b>o, o<b><font color="#ff0000">y</font></b>es, o<b><font color="#ff0000">y</font></b>e,
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;o&#237;mos, o&#237;s, o<b><font color="#ff0000">y</font></b>en
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
