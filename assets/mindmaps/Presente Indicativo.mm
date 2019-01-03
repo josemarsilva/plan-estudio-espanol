@@ -16,7 +16,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="15"/>
 <icon BUILTIN="list"/>
-<node CREATED="1546381264311" ID="ID_1674431836" MODIFIED="1546541669351" POSITION="left">
+<node CREATED="1546381264311" ID="ID_1674431836" MODIFIED="1546541669351" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -285,7 +285,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1546381266909" ID="ID_55656418" MODIFIED="1546541669351" POSITION="left">
+<node CREATED="1546381266909" ID="ID_55656418" MODIFIED="1546541669351" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -461,8 +461,7 @@
       &#160;&#160;&#160;&#160;&#160;sentir, sugerir
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -487,8 +486,7 @@
       <b>ir</b>: morir
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -555,8 +553,7 @@
       <b>Valer</b>, <b>Salir</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_1462735469" MODIFIED="1546543513290">
@@ -586,8 +583,7 @@
       <b>Traer</b>, <b>Roer</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546543524570" ID="ID_326581182" MODIFIED="1546543566833">
@@ -620,8 +616,7 @@
       <b>Satisfacer</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -676,8 +671,7 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tenemos, ten&#233;is, t<b><font color="#ff0000">ie</font></b>nen
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_404670303" MODIFIED="1546545169823">
@@ -707,8 +701,7 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;venimos, ven&#237;s, v<b><font color="#ff0000">ie</font></b>nen
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_462042528" MODIFIED="1546545571790">
@@ -738,8 +731,7 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;decimos, dec&#237;s, d<b><font color="#ff0000">i</font></b>cen
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_1622083960" MODIFIED="1546546075745">
@@ -766,8 +758,7 @@
       &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;o&#237;mos, o&#237;s, o<b><font color="#ff0000">y</font></b>en
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
