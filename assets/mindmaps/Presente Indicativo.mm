@@ -13,8 +13,7 @@
       de Indicativo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="15"/>
 <icon BUILTIN="list"/>
 <node CREATED="1546381264311" ID="ID_1674431836" MODIFIED="1546541669351" POSITION="left">
@@ -312,8 +311,7 @@
       el momento en que se habla
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1546542090035" ID="ID_679501869" MODIFIED="1546542360038">
 <richcontent TYPE="NODE"><html>
@@ -328,8 +326,7 @@
       realizan con frecuencia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1546542094772" ID="ID_887494364" MODIFIED="1546542365109">
 <richcontent TYPE="NODE"><html>
@@ -344,26 +341,11 @@
       verdades universales
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1546542103826" ID="ID_1673472481" MODIFIED="1546542104842" TEXT="El futuro pr&#xf3;ximo"/>
 </node>
-<node CREATED="1546541046630" ID="ID_968147259" MODIFIED="1546542325832" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Irregulares</b>
-    </p>
-  </body>
-</html>
-</richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<icon BUILTIN="folder"/>
-<node CREATED="1546541046630" ID="ID_700131416" MODIFIED="1546542888467">
+<node CREATED="1546541046630" ID="ID_700131416" MODIFIED="1546542888467" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -406,8 +388,7 @@
       qu <b><font color="#ff0000">ie</font></b>&#160;ren
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546542901293" ID="ID_813779003" MODIFIED="1546542909902" TEXT="&quot;ue&quot;">
@@ -437,12 +418,11 @@
       v <b><font color="#ff0000">ue</font></b>&#160;lven
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1546541076566" ID="ID_1067048726" MODIFIED="1546541669351">
+<node CREATED="1546541076566" ID="ID_1067048726" MODIFIED="1546541669351" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -475,8 +455,7 @@
       <b>ir</b>: advertir, convertir, digerir, divertir, herir, invertir, mentir, sentir, sugerir
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -498,12 +477,11 @@
       <b>ir</b>: morir
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1546541085071" ID="ID_975839380" MODIFIED="1546541669351">
+<node CREATED="1546541085071" ID="ID_975839380" MODIFIED="1546541669351" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -537,8 +515,7 @@
       &#160;&#160;de conjugaci&#243;n )
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="folder"/>
 <node CREATED="1546543473812" ID="ID_1339468018" MODIFIED="1546543491929">
 <richcontent TYPE="NODE"><html>
@@ -650,8 +627,7 @@
       &#160;&#160;de conjugaci&#243;n )
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="folder"/>
 <node CREATED="1546543473812" ID="ID_565988403" MODIFIED="1546543491929">
 <richcontent TYPE="NODE"><html>
@@ -674,8 +650,7 @@
       <b>Tener</b>: ten<b><font color="#ff0000">g</font></b>o, t<b><font color="#ff0000">ie</font></b>nes, t<b><font color="#ff0000">ie</font></b>ne, tenemos, ten&#233;is, t<b><font color="#ff0000">ie</font></b>nen
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_404670303" MODIFIED="1546545169823">
@@ -691,8 +666,7 @@
       + desinencia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1546543596994" ID="ID_556966770" MODIFIED="1546545512503">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -703,8 +677,7 @@
       <b>Venir</b>: ven<b><font color="#ff0000">g</font></b>o, v<b><font color="#ff0000">ie</font></b>nes, v<b><font color="#ff0000">ie</font></b>ne, venimos, ven&#237;s, v<b><font color="#ff0000">ie</font></b>nen
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_462042528" MODIFIED="1546545571790">
@@ -720,8 +693,7 @@
       + <b><font color="#ff0000">g</font></b>&#160;+ desinencia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1546543596994" ID="ID_904906988" MODIFIED="1546545638586">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -732,8 +704,7 @@
       <b>Decir</b>: d<b><font color="#ff0000">ig</font></b>o, d<b><font color="#ff0000">i</font></b>ces, d<b><font color="#ff0000">i</font></b>ce, decimos, dec&#237;s, d<b><font color="#ff0000">i</font></b>cen
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546543473812" ID="ID_1622083960" MODIFIED="1546546075745">
@@ -746,8 +717,7 @@
       Ra&#237;z + <b><font color="#ff0000">ig</font></b>&#160;+ desinencia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1546543596994" ID="ID_1948695563" MODIFIED="1546546137392">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -758,9 +728,7 @@
       <b>O&#237;r</b>: o<b><font color="#ff0000">ig</font></b>o, o<b><font color="#ff0000">y</font></b>es, o<b><font color="#ff0000">y</font></b>e, o&#237;mos, o&#237;s, o<b><font color="#ff0000">y</font></b>en
     </p>
   </body>
-</html>
-</richcontent>
-</node>
+</html></richcontent>
 </node>
 </node>
 </node>
