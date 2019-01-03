@@ -97,13 +97,13 @@ adqu**i**rir: adqu**ie**ro, adqu**ie**res, etc | j**u**gar: j**ue**go, j**ue**ga
 Formación                              | Modelos de conjugación
 -------------------------------------- | --------------------------------------
 Raíz + **g** + desinencia              | * Poner: pon**g**o, pones, pone, ponemos, ponéis, ponen
-                                       | * Valer: val**g**o, vales, vale, valemos, valéis, valen
-                                       | * Salir: sal**g**o, sales, sale, salimos, salís, salen
+.                                      | * Valer: val**g**o, vales, vale, valemos, valéis, valen
+.                                      | * Salir: sal**g**o, sales, sale, salimos, salís, salen
 Raíz + **ig** + desinencia             | * Caer: ca**ig**o, caes, cae, caemos, caéis, caen
-                                       | * Traer: tra**ig**o, traes, trae, traemos, traéis, traen
-                                       | * Roer: ro**ig**o, roes, roe, roemos, roéis, roen
+.                                      | * Traer: tra**ig**o, traes, trae, traemos, traéis, traen
+.                                      | * Roer: ro**ig**o, roes, roe, roemos, roéis, roen
 **c** => **g** en la raíz + desinencia | * Ha**c**er: ha**g**o, haces, hace, hacemos, hacéis, hacen
-                                       | * Satisfa**c**er: satisfa**g**o, satisfaces, satisface, satisfacemos, satisfacéis, satisfacen
+.                                      | * Satisfa**c**er: satisfa**g**o, satisfaces, satisface, satisfacemos, satisfacéis, satisfacen
 
 ### 5.1. Doble irregularidad: 1a persona singular, 2a y 3a personas del singular y 3a persona del plural
 
