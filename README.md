@@ -28,6 +28,8 @@
 * [Presente de Indicativo](assets/md/presente-de-indicativo.md)
   * [Conjugação verbos regulares](assets/md/presente-de-indicativo.md#1-conjugación-verbos-regulares)
   * [Uso del presente de indicativo](assets/md/presente-de-indicativo.md#2-uso-del-presente-de-indicativo)
+  * [Conjugación irregulares con diptongos "ie" y "ue"](assets/md/presente-de-indicativo.md#3-conjugación-irregulares-con-diptongos-ie-y-ue)
+  * [Conjugación irregulares que diptongan](assets/md/presente-de-indicativo.md#4-conjugación-irregulares-que-diptongan)
 
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)

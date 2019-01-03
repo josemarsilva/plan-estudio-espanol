@@ -31,10 +31,9 @@ Conjugación                         | Ejemplos
 
 ```txt
            ............
-           :          :
+           :  ahora   :
 ----------|------------|---------->
-  pasado   :  ahora   :   futuro
-           : presente :
+  pasado   : presente :   futuro
            :..........:
 ```
 
@@ -57,14 +56,14 @@ Muchos verbos presentan diptongación: la vocal de la raíz, al conjugarse en de
   * e -> **ie**
   * o -> **ue**
 
-Pronombre              | Comenzar      | Querer      | Preferir      | Almorzar     | Volver      | Dormir
----------------------- | ------------- | ----------- | ------------- | ------------ | ----------- | --------------
-yo                     | com**ie**nzo  | qu**ie**ro  | pref**ie**ro  | alm**ue*rzo  | v**ue**lvo  | d**ue**rmo
-tú                     | com**ie**zas  | qu**ie**res | pref**ie**res | alm**ue*rzas | v**ue**lves | d**ue**rmes
-él / ella / usted      | com**ie**za   | qu**ie**re  | pref**ie**re  | alm**ue*rza  | v**ue**lve  | d**ue**rme
-nosotros / nosotras    | comenzamos    | queremos    | preferimos    | almorzamos   | volvemos    | durmimos
-vosotros / vosotras    | comenzáis     | queréis     | preferís      | almorzáis    | volvéis     | durmís
-ellos / ellas / ustdes | com**ie**nzan | qu**ie**ren | pref**ie**ren | alm**ue*rzan | v**ue**lven | d**ue**rmen
+Pronombre              | Comenzar      | Querer      | Preferir      | Almorzar      | Volver      | Dormir
+---------------------- | ------------- | ----------- | ------------- | ------------- | ----------- | --------------
+yo                     | com**ie**nzo  | qu**ie**ro  | pref**ie**ro  | alm**ue**rzo  | v**ue**lvo  | d**ue**rmo
+tú                     | com**ie**zas  | qu**ie**res | pref**ie**res | alm**ue**rzas | v**ue**lves | d**ue**rmes
+él / ella / usted      | com**ie**za   | qu**ie**re  | pref**ie**re  | alm**ue**rza  | v**ue**lve  | d**ue**rme
+nosotros / nosotras    | comenzamos    | queremos    | preferimos    | almorzamos    | volvemos    | durmimos
+vosotros / vosotras    | comenzáis     | queréis     | preferís      | almorzáis     | volvéis     | durmís
+ellos / ellas / ustdes | com**ie**nzan | qu**ie**ren | pref**ie**ren | alm**ue**rzan | v**ue**lven | d**ue**rmen
 
 
 ## 4. Conjugación irregulares que diptongan
@@ -89,4 +88,22 @@ adqu**i**rir: adqu**ie**ro, adqu**ie**res, etc | j**u**gar: j**ue**go, j**ue**ga
     * Apr**e**nder: apr**e**ndo, apr**e**ndes, etc
     * Compr**e**nder: compr**e**ndo, compr**e**ndes, etc
     * Dep**e**nder: dep**e**ndo, dep**e**ndes, etc.
+
+
+## 5. Conjugación irregulares que agregan "g" en 1a persona
+
+### 5.1. Irregularidad solamente en la 1a persona del singular
+
+Formación                              | Modelos de conjugación
+-------------------------------------- | --------------------------------------
+Raíz + **g** + desinencia              | * Poner: pon**g**o, pones, pone, ponemos, ponéis, ponen
+                                       | * Valer: val**g**o, vales, vale, valemos, valéis, valen
+                                       | * Salir: sal**g**o, sales, sale, salimos, salís, salen
+Raíz + **ig** + desinencia             | * Caer: ca**ig**o, caes, cae, caemos, caéis, caen
+                                       | * Traer: tra**ig**o, traes, trae, traemos, traéis, traen
+                                       | * Roer: ro**ig**o, roes, roe, roemos, roéis, roen
+**c** => **g** en la raíz + desinencia | * Ha**c**er: ha**g**o, haces, hace, hacemos, hacéis, hacen
+                                       | * Satisfa**c**er: satisfa**g**o, satisfaces, satisface, satisfacemos, satisfacéis, satisfacen
+
+### 5.1. Doble irregularidad: 1a persona singular, 2a y 3a personas del singular y 3a persona del plural
 
