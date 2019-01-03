@@ -2,18 +2,20 @@
 
 ## 1. Conjugación verbos regulares
 
-Pronombre               | 1a Conjugación (**ar**)  | 2a Conjugación (**er**) | 3a Conjugación (**ir**)
-yo                      | practic**o**            | com**o**               | viv**o**
-tu                      | practic**as**           | com**es**              | viv**es**
-él / ella / usted       | practic**a**            | com**e**               | viv**e**
-nosotros / nosotras     | practic**amos**         | com**emos**            | viv**imos**
-vosotros / vosotras     | practic**áis**          | com**éis**             | viv**ís**
-ellos / ellas / ustedes | practic**an**           | com**en**              | viv**en**
+Pronombre               | 1a Conjugación (**ar**) | 2a Conjugación (**er**) | 3a Conjugación (**ir**)
+----------------------- | ----------------------- | ----------------------- | --------------------------
+yo                      | practic**o**            | com**o**                | viv**o**
+tu                      | practic**as**           | com**es**               | viv**es**
+él / ella / usted       | practic**a**            | com**e**                | viv**e**
+nosotros / nosotras     | practic**amos**         | com**emos**             | viv**imos**
+vosotros / vosotras     | practic**áis**          | com**éis**              | viv**ís**
+ellos / ellas / ustedes | practic**an**           | com**en**               | viv**en**
 
 
 * Outros verbos regulares en Presente y de uso muy frecuente
 
 Conjugación                         | Ejemplos
+----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------
 1a Conjugación terminação em **ar** | afirmar, bailar, charlar, circular, cocinar, comprar, conmemorar, estudiar, ganar, limpiar, llamar, llenar, marcar, plantar, realizar, tirar
 2a Conjugación terminação em **er** | aprender, arder, beber, comer, cometer, creer, depender, leer, pretender, prometer, suspender, temer, vender
 3a Conjugación terminação em **ir** | abrir, acudir, añadir, compartir, escribir, imprimir, partir, permitir, recibir, residir
@@ -28,10 +30,12 @@ Conjugación                         | Ejemplos
 * Linha do tempo
 
 ```txt
-             XXXXXX
-----------|----------|---------->
-  pasado     ahora      futuro
-            presente
+           ............
+           :          :
+----------|------------|---------->
+  pasado   :  ahora   :   futuro
+           : presente :
+           :..........:
 ```
 
 ## 2. Uso del presente de indicativo
@@ -52,18 +56,19 @@ Muchos verbos presentan diptongación: la vocal de la raíz, al conjugarse en de
   * e -> **ie**
   * o -> **ue**
 
-Pronombre              | Comenzar      | Querer      | Preferir     | Almorzar     | Volver      | Dormir
-yo                     | com**ie**nzo  | qu**ie**ro  | pref**ie*ro  | alm**ue*rzo  | v**ue**lvo  | d**ue**rmo
-tú                     | com**ie**zas  | qu**ie**res | pref**ie*res | alm**ue*rzas | v**ue**lves | d**ue**rmes
-él / ella / usted      | com**ie**za   | qu**ie**re  | pref**ie*re  | alm**ue*rza  | v**ue**lve  | d**ue**rme
-nosotros / nosotras    | comenzamos    | queremos    | preferimos   | almorzamos   | volvemos    | durmimos
-vosotros / vosotras    | comenzáis     | queréis     | preferís     | almorzáis    | volvéis     | durmís
-ellos / ellas / ustdes | com**ie**nzan | qu**ie**ren | pref**ie*ren | alm**ue*rzan | v**ue**lven | d**ue**rmen
+Pronombre              | Comenzar      | Querer      | Preferir      | Almorzar     | Volver      | Dormir
+yo                     | com**ie**nzo  | qu**ie**ro  | pref**ie**ro  | alm**ue*rzo  | v**ue**lvo  | d**ue**rmo
+tú                     | com**ie**zas  | qu**ie**res | pref**ie**res | alm**ue*rzas | v**ue**lves | d**ue**rmes
+él / ella / usted      | com**ie**za   | qu**ie**re  | pref**ie**re  | alm**ue*rza  | v**ue**lve  | d**ue**rme
+nosotros / nosotras    | comenzamos    | queremos    | preferimos    | almorzamos   | volvemos    | durmimos
+vosotros / vosotras    | comenzáis     | queréis     | preferís      | almorzáis    | volvéis     | durmís
+ellos / ellas / ustdes | com**ie**nzan | qu**ie**ren | pref**ie**ren | alm**ue*rzan | v**ue**lven | d**ue**rmen
 
 
 ## 4. Conjugación irregulares que diptongan
 
 e -> **ie**                                                                                  | o -> **ue**
+-------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------
 **ar**: apretar, atravesar, calentar, confesar, despertar, gobernar, pensar, regar, tropezar | **ar**: apostar, colgar, contar, encontrar, mostrar, probar, rodar, rogar, soltar, soñar, volar
 **er**: atender, defender, encender, entender, perder, tender                                | **er**: devolver, envolver, mover, poder, resolver, soler, torcer
 **ir**: advertir, convertir, digerir, divertir, herir, invertir, mentir, sentir, sugerir     | **ir**: morir
@@ -71,6 +76,7 @@ y sus derivados: extender, presentir, etc.                                      
 
 
 i -> **ie**                                    | u -> **ue**
+---------------------------------------------- | -----------------------------------------------------------
 adqu**i**rir: adqu**ie**ro, adqu**ie**res, etc | j**u**gar: j**ue**go, j**ue**gas, etc
 
 
