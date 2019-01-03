@@ -107,3 +107,17 @@ Raíz + **ig** + desinencia             | * Caer: ca**ig**o, caes, cae, caemos, 
 
 ### 5.1. Doble irregularidad: 1a persona singular, 2a y 3a personas del singular y 3a persona del plural
 
+Formación                                         | Modelos de conjugación
+------------------------------------------------- | --------------------------------------
+a) Raíz + **g** + desinencia                      | * Tener: ten**g**o, t**ie**nes, t**ie**ne, tenemos, tenéis, t**ie**nen
+b) **e** => **ie** en la raíz + desinencia        | * Venir: ven**g**o, v**ie**nes, v**ie**ne, venimos, venís, v**ie**nen
+a) **e** => **i** en la raíz + **g** + desinencia | * Decir: d**ig**o, d**i**ces, d**i**ce, decimos, decís, d**i**cen
+b) **e** => **i** en la raíz + desinencia         | ` `
+a) Raíz + **ig** + desinencia                     | * Oír: o**ig**o, o**y**es, o**y**e, oímos, oís, o**y**en
+b) Raíz + **y** + desinencia                      | ` `
+
+* Importante
+  * Algunos verbos derivados de esos sufren las mismas irregulares:
+    * **Poner**: disponer, imponer, proponer, suponer; **salir**: sobresalir; **caer**: decaer, recaer; **traer**: contraer, distraer;	
+    * **Hacer**: deshacer, rehacer; **tener**: contener, detener; entretener, mantener; obtener; retener; sostener; **venir**: convenir, devenir, intervenir, prevenir, provenir; **decir**: bendicir, desdicir, maldecir, predecir; **oír**: desoír.
+

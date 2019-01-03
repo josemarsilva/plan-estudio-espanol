@@ -30,6 +30,10 @@
   * [Uso del presente de indicativo](assets/md/presente-de-indicativo.md#2-uso-del-presente-de-indicativo)
   * [Conjugación irregulares con diptongos "ie" y "ue"](assets/md/presente-de-indicativo.md#3-conjugación-irregulares-con-diptongos-ie-y-ue)
   * [Conjugación irregulares que diptongan](assets/md/presente-de-indicativo.md#4-conjugación-irregulares-que-diptongan)
+  * [Conjugación irregulares que agregan "g" en 1a persona](assets/md/presente-de-indicativo.md#5-conjugación-irregulares-que-agregan-g-en-1a-persona)
+    * [Irregularidad solamente en la 1a persona del singular](assets/md/presente-de-indicativo.md#51-irregularidad-solamente-en-la-1a-persona-del-singular)
+    * [Doble irregularidad: 1a persona singular, 2a y 3a personas del singular y 3a persona del plural](assets/md/presente-de-indicativo.md#51-doble-irregularidad-1a-persona-singular-2a-y-3a-personas-del-singular-y-3a-persona-del-plural)
+
 
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
