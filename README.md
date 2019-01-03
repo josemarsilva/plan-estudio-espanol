@@ -25,6 +25,9 @@
   * [Artículos definidos con nombres proprios](assets/md/articulos-definidos.md#3-artículos-definidos-con-nombres-proprios.md)
   * [Artículos definidos con expresiones de tiempo; contracciones](assets/md/articulos-definidos.md#4-artículos-definidos-con-expresiones-de-tiempo-contracciones.md)
   * [Artículos definidos las preposiciones a y de se unen con el artículo el](assets/md/articulos-definidos.md#5-artículos-definidos-las-preposiciones-a-y-de-se-unen-con-el-artículo-el.md)
+* [Presente de Indicativo](assets/md/presente-de-indicativo.md)
+  * [Conjugação verbos regulares](assets/md/presente-de-indicativo.md#1-conjugación-verbos-regulares)
+  * [Uso del presente de indicativo](assets/md/presente-de-indicativo.md#2-uso-del-presente-de-indicativo)
 
 * [Modos y Tiempos Verbales](https://www.bomespanhol.com.br/gramatica/modos-tempos-verbais)
 * [Adverbios](https://www.bomespanhol.com.br/gramatica/adverbios)
