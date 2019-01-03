@@ -1,6 +1,6 @@
 # Presente de Indicativo
 
-![Mapa Mental](../assets/images/Presente%20Indicativo.png) 
+![Mapa Mental](../images/Presente%20Indicativo.png) 
 
 
 ## 1. Conjugación verbos regulares
