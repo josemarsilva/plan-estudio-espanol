@@ -16,6 +16,66 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="15"/>
 <icon BUILTIN="list"/>
+<node CREATED="1546381266909" ID="ID_55656418" MODIFIED="1546541669351" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Uso</b>&#160;del presente de indicativo
+    </p>
+  </body>
+</html></richcontent>
+<icon BUILTIN="folder"/>
+<node CREATED="1546542072433" ID="ID_804310955" MODIFIED="1546542073527" TEXT="Acciones habituales"/>
+<node CREATED="1546542074414" ID="ID_302446442" MODIFIED="1546542349987">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Lo que sucede en
+    </p>
+    <p>
+      el momento en que se habla
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1546542090035" ID="ID_679501869" MODIFIED="1546542360038">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Acciones que se
+    </p>
+    <p>
+      realizan con frecuencia
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1546542094772" ID="ID_887494364" MODIFIED="1546542365109">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Hechos considerados
+    </p>
+    <p>
+      verdades universales
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1546542103826" ID="ID_1673472481" MODIFIED="1546542104842" TEXT="El futuro pr&#xf3;ximo"/>
+</node>
 <node CREATED="1546381264311" ID="ID_1674431836" MODIFIED="1546541669351" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -52,17 +112,18 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1546541747665" ID="ID_1397479753" MODIFIED="1546541867715">
+<node CREATED="1546541747665" ID="ID_1397479753" MODIFIED="1546548107468">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      practic <b><font color="#ff0000">a</font></b>
+      practic <b><font color="#ff0000">as</font></b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1546541753489" ID="ID_452317711" MODIFIED="1546541855396">
 <richcontent TYPE="NODE"><html>
@@ -284,66 +345,6 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-</node>
-<node CREATED="1546381266909" ID="ID_55656418" MODIFIED="1546541669351" POSITION="right">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b>Uso</b>&#160;del presente de indicativo
-    </p>
-  </body>
-</html></richcontent>
-<icon BUILTIN="folder"/>
-<node CREATED="1546542072433" ID="ID_804310955" MODIFIED="1546542073527" TEXT="Acciones habituales"/>
-<node CREATED="1546542074414" ID="ID_302446442" MODIFIED="1546542349987">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Lo que sucede en
-    </p>
-    <p>
-      el momento en que se habla
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1546542090035" ID="ID_679501869" MODIFIED="1546542360038">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Acciones que se
-    </p>
-    <p>
-      realizan con frecuencia
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1546542094772" ID="ID_887494364" MODIFIED="1546542365109">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Hechos considerados
-    </p>
-    <p>
-      verdades universales
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1546542103826" ID="ID_1673472481" MODIFIED="1546542104842" TEXT="El futuro pr&#xf3;ximo"/>
 </node>
 <node CREATED="1546541046630" ID="ID_700131416" MODIFIED="1546542888467" POSITION="right">
 <richcontent TYPE="NODE"><html>
