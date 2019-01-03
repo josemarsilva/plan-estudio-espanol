@@ -16,8 +16,7 @@
       espa&#241;ol
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="15"/>
 <icon BUILTIN="gohome"/>
 <node CREATED="1546380961818" ID="ID_867545656" MODIFIED="1546388024973" POSITION="right" STYLE="bubble" TEXT="1. Gram&#xe1;tica">
@@ -110,8 +109,7 @@
       contracciones
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1546387425629" ID="ID_550236988" MODIFIED="1546387436014">
 <richcontent TYPE="NODE"><html>
@@ -126,8 +124,125 @@
       de se unen con el art&#237;culo el
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1546381117322" ID="ID_1919730124" MODIFIED="1546541004739" STYLE="fork" TEXT="Presente de Indicativo">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="list"/>
+<node CREATED="1546381264311" ID="ID_1674431836" MODIFIED="1546541353403">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conjuga&#231;&#227;o verbos <b>regulares</b>
+    </p>
+  </body>
 </html>
 </richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1546381266909" ID="ID_55656418" MODIFIED="1546541363909">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Uso</b>&#160;del presente de indicativo
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1546541046630" ID="ID_700131416" MODIFIED="1546541372276">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conjugaci&#243;n <b>irregulares</b>
+    </p>
+    <p>
+      con diptongos &quot;<b>ie</b>&quot; y &quot;<b>ue</b>&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1546541076566" ID="ID_1067048726" MODIFIED="1546541383326">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conjugaci&#243;n <b>irregulares</b>
+    </p>
+    <p>
+      que <b>diptongan</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1546541085071" ID="ID_975839380" MODIFIED="1546541290503">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conjugaci&#243;n <b>irregulares</b>
+    </p>
+    <p>
+      que agregan &quot;<b>g</b>&quot; en 1a persona
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1546541106951" ID="ID_1463223882" MODIFIED="1546541242420">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Irregularidad</b>&#160;solamente
+    </p>
+    <p>
+      en la <b>1a persona del singular</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1546541196224" ID="ID_1756120999" MODIFIED="1546541283594">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Doble <b>irregularidad</b>:
+    </p>
+    <p>
+      <b>1a persona singular</b>,
+    </p>
+    <p>
+      <b>2a y 3a personas del singular</b>&#160;
+    </p>
+    <p>
+      y <b>3a persona del plural</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>

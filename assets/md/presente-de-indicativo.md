@@ -1,5 +1,8 @@
 # Presente de Indicativo
 
+![](assets/images/Presente%20de%20indicativo.png) 
+
+
 ## 1. Conjugación verbos regulares
 
 Pronombre               | 1a Conjugación (**ar**) | 2a Conjugación (**er**) | 3a Conjugación (**ir**)

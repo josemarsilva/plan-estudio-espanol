@@ -1,7 +1,5 @@
 # treina-estudio-espanol
 
-## I. Mapa Mental
-
 ![](assets/images/Plan%20de%20estudio%20en%20espanol.png) 
 
 
