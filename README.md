@@ -1,6 +1,6 @@
 # treina-estudio-espanol
 
-![](assets/images/Plan%20de%20estudio%20en%20espanol.png) 
+![Mapa Mental](assets/images/Plan%20de%20estudio%20en%20espanol.png) 
 
 
 ## 1. Gramática
