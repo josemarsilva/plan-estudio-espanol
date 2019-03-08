@@ -34,5 +34,5 @@ ellos / ellas / ustedes | son    | están
   2. Al enumerar personas incluyéndose a si mismo, **yo** es la última persona que se mensiona:
     * __Vosotras y yo somos como hermanas__
   3. Ningún pronombre personal forma contracción con otras palabras:
-    * __de ellos, no quiero nada**
+    * __de ellos, no quiero nada__
   4. En algunas regiones se utiliza el ponombre **vos** en lugar de **tú**, especialmente en la región del Río de la Plata.

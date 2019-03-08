@@ -5,7 +5,7 @@
 numero   | masculino | feminino 
 -------- | --------- | --------
 singular | **el**    | **ella**
-plura    | **los**   | **las**
+plural   | **los**   | **las**
 
 
 ## 2. Artículos definidos con nombres comunes
